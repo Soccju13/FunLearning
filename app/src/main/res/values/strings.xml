@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FunLearning</string>
+    <string name="fr1_titulo">Bienvenido!</string>
+    <string name="btn_registrar">Login</string>
+    <string name="fr1_label1">Ingresar usuario</string>
+    <string name="fr1_label2">Ingresar contraseña</string>
+    <string name="fr1_edt_usu"></string>
+
+
+    <string name="fr_menu_text">Al parecer todo correcto</string>
+</resources>
