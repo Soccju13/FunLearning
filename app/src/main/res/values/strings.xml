@@ -5,7 +5,9 @@
     <string name="fr1_label1">Ingresar usuario</string>
     <string name="fr1_label2">Ingresar contraseña</string>
     <string name="fr1_edt_usu"></string>
+    <string name="fr1_lbregistrar">No tengo usuario</string>
 
 
     <string name="fr_menu_text">Al parecer todo correcto</string>
+    <string name="btnregistrar">Registrar</string>
 </resources>
